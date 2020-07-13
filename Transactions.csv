@@ -1,0 +1,5 @@
+Type,Account,Amount
+Deposit,Checking,100.00
+Deposit,Saving,500
+Withdraw,Checking,50
+Withdraw,Saving,200
